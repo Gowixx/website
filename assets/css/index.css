@@ -1,0 +1,29 @@
+body {
+    background-color: #2C3748;
+    font-weight: 400;
+    color: #5b5b5b;
+    line-height: 160%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.area {
+    width: 100%;
+    max-width: 350px;
+    text-align: center;
+    padding: 10px;
+    background-color: #243040;
+    border-radius: 5%;
+} /* Credits to Its-Vichy for "body" and "area"*/
+
+
+.btn {
+    background-color: hsl(202, 60%, 34%) !important;
+    border-radius: 0.18rem;
+}
+
+.btn:hover {
+    background-color: hsl(202, 60%, 34%) !important;
+}
